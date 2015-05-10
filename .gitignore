@@ -47,5 +47,8 @@ libunicapgtk/**/Makefile
 
 *.log
 *.pc
-
+*.log   
+*.log-id 
+*.id 
+*.log/log-id
 */autom4te.cache/
