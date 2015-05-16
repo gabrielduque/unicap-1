@@ -3,5 +3,6 @@
 #log 
 #log-id 
 #log/log-id 
-#id
+#id  
+#Ciencia da computacao
 unicap provides a uniform interface to video capture devices.
